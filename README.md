@@ -18,5 +18,6 @@ Run this URL
 localhost/todoList
 ```
 ## Screenshop of the Website
+![Screenshot](ss.png)
 
 
